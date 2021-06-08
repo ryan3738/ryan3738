@@ -3,6 +3,7 @@
 - I'm currently using React.js, Next.js, HTML5, CSS, Apollo, GraphQL, Typescript, MongoDB, Keystone.js & Node
 - I’m looking to collaborate with people that are constantly learning and coming up with creative ideas to solve problems
 - If you would like to get in touch you can reach me at ryan3738@gmail.com
+- When I'm not coding you can find me mountain biking, cooking, or traveling!
 
 <!---
 ryan3738/ryan3738 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
