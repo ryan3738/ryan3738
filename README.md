@@ -1,6 +1,6 @@
 # Hi, I’m Ryan Fraser 👋
 - I am a Software Developer interested in creating responsive, scalable web applications using modern web technolgies.
-- I'm currently using React.js, Next.js, HTML5, CSS, Apollo, GraphQL, Typescript, PostgreSQL, Keystone.js & Node
+- I'm currently using React.js, Next.js, HTML5, CSS, Apollo, GraphQL, Typescript, PostgreSQL, KeystoneJS & Node
 - I’m looking to collaborate with others that are constantly learning and coming up with creative ideas to solve difficult problems
 - If you would like to get in touch you can reach me at ryan3738@gmail.com
 - When I'm not coding you can find me mountain biking, cooking, or traveling!
@@ -20,7 +20,7 @@ Next.js | React.js | Javascript | Typescript | Vercel | GraphQL | Apollo Client 
 
 ### Back End
 #### Description:
-The backend for an e-commerce web application. Written using Keystonejs and typescript. Includes an admin UI for managing the site and products. Exposes database information using a GraphQL API.
+The backend for an e-commerce web application. Written using KeystoneJS and typescript. Includes an admin UI for managing the site and products. Exposes database information using a GraphQL API.
 #### Tech Used
 PostgreSQL | Prisma | GraphQL | Node | Typescript | KeystoneJS CMS | Digital Ocean
 
