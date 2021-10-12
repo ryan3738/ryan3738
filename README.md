@@ -20,11 +20,6 @@ Contributions:
 - Implemented passwordless sign up to increase user experience and improve security
 - Setup Eslint and prettier to ensure code is consistent and readable
 - Styling is done using Styled-Components, React-Transition-Groups, & styled-jsx
-
-Redesigned and migrated the customer's website to modern web technologies to improve loading times and responsiveness
-
-Description:
-
 ### Front End
 Tech Used: Next.js | Javascript | Typescript | Vercel | React.js | Styled Components | GraphQL | Apollo Client
 
