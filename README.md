@@ -1,5 +1,5 @@
 # Hi, I’m Ryan Fraser 👋
-- I’m interested in creating responsive, scalable web applications using modern web technolgies.
+- I am a Software Developer interested in creating responsive, scalable web applications using modern web technolgies.
 - I'm currently using React.js, Next.js, HTML5, CSS, Apollo, GraphQL, Typescript, PostgreSQL, Keystone.js & Node
 - I’m looking to collaborate with others that are constantly learning and coming up with creative ideas to solve difficult problems
 - If you would like to get in touch you can reach me at ryan3738@gmail.com
@@ -9,19 +9,12 @@
 
 ## Bellingham 3D e-commerce web app
 
-Description:
-Full-stack e-commerce web application using Next.js, React.js, GraphQL, and Apollo Client
+#### Description:
+Full-stack e-commerce web application with a React front end and a node back end.
 
-Contributions:
-
-- Coded the Backend using Keystonejs, Prisma, and Typescript integrated with an Admin UI and a PostgreSQL database
-- Implemented CI/CD workflow utilizing GitHub, Vercel, & DigitalOcean pushing changes to production in minutes
-- Converted Frontend code from Javascript to Typescript to help eliminate type errors
-- Implemented passwordless sign up to increase user experience and improve security
-- Setup Eslint and prettier to ensure code is consistent and readable
-- Styling is done using Styled-Components, React-Transition-Groups, & styled-jsx
 ### Front End
-Tech Used: Next.js | Javascript | Typescript | Vercel | React.js | Styled Components | GraphQL | Apollo Client
+#### Tech Used
+Next.js | Javascript | Typescript | Vercel | React.js | GraphQL | Apollo Client | Styled-Components
 
 [Live Web App](https://bellingham3d.com/)
 
@@ -29,22 +22,18 @@ Tech Used: Next.js | Javascript | Typescript | Vercel | React.js | Styled Compon
 
 ### Back End
 
-#### Tech Used: PostgreSQL | Prisma | Node | Typescript | KeystoneJS CMS
+#### Tech Used
+PostgreSQL | Prisma | GraphQL | Node | Typescript | KeystoneJS CMS | Digital Ocean
 
 [GitHub Repo](https://github.com/ryan3738/bellingham3d-backend)
 
 ## Frasers Website
 
-Constributions: 
+#### Description: 
+Business website for Frasers Gourmet Hideaway with a basic CMS and authentication to allow for menu & website changes.
 
-- Redesigned and migrated the customer's website to modern web technologies to improve loading times and responsiveness
-- Coded Netlify CMS to allow the owner to change menu items on the website
-- Setup admin UI and authentication using NextAuth.js
-- Created reusable components in React.js
-- Integrated website with Square online ordering to allow for online orders during COVID-19 shutdowns
-- Set up web tools like Npm, Yarn, Babel, & Webpack
-
-Tech Used: Next.js | Javascript | Typescript | Vercel | React.js | Netlify CMS | NextAuth | Yarn | ESlint | Prettier
+####  Tech Used:
+Next.js | Javascript | Typescript | Vercel | React.js | Netlify CMS | NextAuth | Yarn | ESlint | Prettier
 
 [Live Web Site](https://frasersgh.com/)
 
@@ -52,8 +41,12 @@ Tech Used: Next.js | Javascript | Typescript | Vercel | React.js | Netlify CMS |
 
 ## Miscellaneous Projects
 
+TBD...
 
+# Contact
 
+email: ryan3738@gmail.com
+linkedin: https://www.linkedin.com/in/ryan-fraser-3052515/
 
 
 <!---
