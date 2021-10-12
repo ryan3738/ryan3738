@@ -8,10 +8,6 @@
 # Portfolio
 
 ## Bellingham 3D e-commerce web app
-
-#### Description:
-Full-stack e-commerce web application.
-
 ### Front End
 #### Description:
 Front end for an e-commerce web application hosted on Vercel. Written using React.js and integrated with the backend using a GraphQL API.
