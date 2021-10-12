@@ -44,8 +44,8 @@ TBD...
 
 # Contact
 
-email: ryan3738@gmail.com
-linkedin: https://www.linkedin.com/in/ryan-fraser-3052515/
+- email: ryan3738@gmail.com
+- linkedin: https://www.linkedin.com/in/ryan-fraser-3052515/
 
 
 <!---
