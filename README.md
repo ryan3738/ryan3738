@@ -5,7 +5,7 @@
 - If you would like to get in touch you can reach me at ryan3738@gmail.com
 - When I'm not coding you can find me mountain biking, cooking, or traveling!
 
-#Portfolio
+# Portfolio
 
 ## Bellingham 3D e-commerce web app
 
