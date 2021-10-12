@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ryan Fraser
-- I’m interested in creating responsive, scalable web applications
+# Hi, I’m Ryan Fraser
+- I’m interested in creating responsive, scalable web applications using modern web technolgies.
 - I'm currently using React.js, Next.js, HTML5, CSS, Apollo, GraphQL, Typescript, PostgreSQL, Keystone.js & Node
 - I’m looking to collaborate with others that are constantly learning and coming up with creative ideas to solve difficult problems
 - If you would like to get in touch you can reach me at ryan3738@gmail.com
@@ -29,7 +29,7 @@ Tech Used: Next.js | Javascript | Typescript | Vercel | React.js | Styled Compon
 
 ### Back End
 
-Tech Used: PostgreSQL | Prisma | Node | Typescript | KeystoneJS CMS
+#### Tech Used: PostgreSQL | Prisma | Node | Typescript | KeystoneJS CMS
 
 [GitHub Repo](https://github.com/ryan3738/bellingham3d-backend)
 
