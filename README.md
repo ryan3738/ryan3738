@@ -32,13 +32,7 @@ Redesigned and migrated the customer's website to modern web technologies to imp
 Description:
 
 ### Front End
-- Next.js
-- Typescript
-- Vercel
-- React.js
-- Styled Components
-- GraphQL
-- Apollo Client
+- Next.js - Typescript - Vercel - React.js - Styled Components - GraphQL - Apollo Client
 
 [Live Web App](https://bellingham3d.com/)
 
