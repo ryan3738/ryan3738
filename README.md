@@ -10,18 +10,21 @@
 ## Bellingham 3D e-commerce web app
 
 #### Description:
-Full-stack e-commerce web application with a React front end and a node back end.
+Full-stack e-commerce web application.
 
 ### Front End
+#### Description:
+Front end for an e-commerce web application hosted on Vercel. Written using React.js and integrated with the backend using a GraphQL API.
 #### Tech Used
-Next.js | Javascript | Typescript | Vercel | React.js | GraphQL | Apollo Client | Styled-Components
+Next.js | React.js | Javascript | Typescript | Vercel | GraphQL | Apollo Client | Styled-Components
 
 [Live Web App](https://bellingham3d.com/)
 
 [GitHub Repo](https://github.com/ryan3738/bellingham3d-frontend)
 
 ### Back End
-
+#### Description:
+The backend for an e-commerce web application. Written using Keystonejs and typescript. Includes an admin UI for managing the site and products. Exposes database information using a GraphQL API.
 #### Tech Used
 PostgreSQL | Prisma | GraphQL | Node | Typescript | KeystoneJS CMS | Digital Ocean
 
