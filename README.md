@@ -8,6 +8,7 @@
 # Portfolio
 
 ## Bellingham 3D e-commerce web app
+[Bellingham 3D main page and cart](/images/bham-3d-cart.jpg)
 ### Front End
 #### Description:
 Front end for an e-commerce web application hosted on Vercel. Written using React.js and integrated with the backend using a GraphQL API.
@@ -38,9 +39,9 @@ Next.js | Javascript | Typescript | Vercel | React.js | Netlify CMS | NextAuth |
 
 [GitHub Repo](https://github.com/ryan3738/frasers-nextjs-site)
 
-## Miscellaneous Projects
+<!-- ## Miscellaneous Projects
 
-TBD...
+TBD... -->
 
 # Contact
 
