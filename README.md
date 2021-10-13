@@ -8,7 +8,7 @@
 # Portfolio
 
 ## Bellingham 3D e-commerce web app
-![Bellingham 3D main page and cart](/assets/images/bham-3d-cart.jpg)*Live Web App*][https://bellingham3d.com/]
+[![Bellingham 3D main page and cart](/assets/images/bham-3d-cart.jpg)*Live Web App*][https://bellingham3d.com/]
 ### Frontend
 #### Description:
 Frontend for an e-commerce web application hosted on Vercel. Written using React.js and integrated with the backend using a GraphQL API.
