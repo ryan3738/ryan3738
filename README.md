@@ -28,7 +28,7 @@ PostgreSQL | Prisma | GraphQL | Node | Typescript | KeystoneJS CMS | Digital Oce
 [GitHub Repo](https://github.com/ryan3738/bellingham3d-backend)
 
 ## Frasers Website
-![Frasers website home](/assets/images/frasers-site-home.png)*Restaurant Homepage*
+[![Frasers website home](/assets/images/frasers-site-home.png)*Restaurant Homepage*](https://frasersgh.com/)
 #### Description: 
 Business website for Frasers Gourmet Hideaway with a basic CMS and authentication to allow for menu & website changes.
 
