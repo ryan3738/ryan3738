@@ -7,7 +7,7 @@
 
 # Portfolio
 
-## Bellingham 3D e-commerce web app
+## Bellingham 3D eCommerce Web App
 [![Bellingham 3D main page and cart](/assets/images/bham-3d-cart.jpg)*Live web app homepage*](https://bellingham3d.com/)
 ### Frontend
 #### Description:
