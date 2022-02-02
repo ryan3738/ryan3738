@@ -1,7 +1,6 @@
 # Hi, I’m Ryan Fraser 👋
 - I am a Software Developer interested in creating responsive, scalable web applications using modern web technologies.
 - I'm currently using React.js, Next.js, HTML5, CSS, Apollo, GraphQL, Typescript, PostgreSQL, KeystoneJS & Node
-- I’m looking to collaborate with others on open source projects
 - If you would like to get in touch you can reach me at ryan3738@gmail.com
 - When I'm not coding you can find me mountain biking, cooking, or traveling!
 
