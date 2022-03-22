@@ -4,7 +4,7 @@
 - If you would like to get in touch you can reach me at ryan3738@gmail.com, [Twitter](https://twitter.com/ryan3738), [LinkedIn](https://www.linkedin.com/in/ryan-fraser-3052515/)
 - When I'm not coding you can find me mountain biking, cooking, or traveling!
 
-# Portfolio
+# Projects
 
 ## Bellingham 3D eCommerce Web App
 
