@@ -35,7 +35,7 @@ PostgreSQL | Prisma | GraphQL | Node | Typescript | KeystoneJS CMS | Digital Oce
 Business website for Frasers Gourmet Hideaway with a basic CMS and authentication to allow for menu & website changes.
 
 ####  Tech Used:
-Next.js | Javascript | Typescript | Vercel | React.js | Netlify CMS | NextAuth | Yarn | ESlint | Prettier
+Next.js | JavaScript | TypeScript | Vercel | React.js | GraphQL | Tina CMS | Yarn | ESlint | Prettier
 
 [Live Web Site](https://frasersgh.com/)
 
